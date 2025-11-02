@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nagput Tech Community (NTC)</h1>
+<h1 align="center">Hi 👋, I'm Nagpur Tech Community (NTC)</h1>
 <h4 align="center">Community represents a vibrant ecosystem of technology enthusiasts, professionals, and innovators dedicated to fostering technological growth and knowledge sharing</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngtechcomm&label=Profile%20views&color=0e75b6&style=flat" alt="ngtechcomm" /> </p>
