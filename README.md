@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nagpur Tech Community (NTC)</h1>
+![Welcome to Nagpur Tech Community](./Welcome-Banner.png)
 <h4 align="center">Community represents a vibrant ecosystem of technology enthusiasts, professionals, and innovators dedicated to fostering technological growth and knowledge sharing</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngtechcomm&label=Profile%20views&color=0e75b6&style=flat" alt="ngtechcomm" /> </p>
@@ -22,7 +22,8 @@ The Nagpur Tech Community exists to bridge the gap between technological innovat
 
 <h2 align="left">Our Presense</h2>
 <p align="left">
-<a href="https://linkedin.com/in/nagpur-tech-community/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagpur-tech-community/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nagpurtechcommunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nagpurtechcommunity" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nagpur-tech-community/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagpur-tech-community/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nagpurtechcommunity" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nagpurtechcommunity" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nagpurtechcommunity" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://chat.whatsapp.com/JU6BJReY7yT9tW0auoCGou?mode=wwt" height="30" width="40" /></a>
 </p>
 
