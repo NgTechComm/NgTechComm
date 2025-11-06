@@ -7,7 +7,7 @@
 
 <div>
 
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=42&showText=true)](https://www.linkedin.com/in/nagpur-tech-community)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=42&showText=true)](https://www.linkedin.com/company/nagpur-tech-community)
 [![youtube](https://www.readmecodegen.com/api/social-icon?name=youtube&size=42&showText=true)](https://www.youtube.com/@nagpurtechcommunity)
 [![whatsapp](https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=42&showText=true)](https://chat.whatsapp.com/JU6BJReY7yT9tW0auoCGou?mode=wwt)
 
